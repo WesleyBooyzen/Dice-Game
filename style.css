@@ -1,0 +1,41 @@
+body{
+    background-image: linear-gradient(to right, #6e7681, #1b1c1d);
+}
+
+h1{
+    font-family: 'Lobster', cursive;
+    color: #4ECCA3;
+    font-size: 8rem;
+    text-shadow: #393E46;
+}
+
+p{
+    color: #4ECCA3;
+    text-shadow: 5px 0 #393E46;
+    font-family: 'Inconsolata', monospace;
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.container{
+    width: 70%;
+    text-align: center;
+    margin: auto;
+}
+
+.dice{
+    display: inline-block;
+    text-align: center;
+}
+
+footer{
+    color: aliceblue;
+    text-align: center;
+    margin: auto;
+    padding: 0%;
+}
+
+img{
+    width: 80%;
+}
